@@ -1,0 +1,40 @@
+2022-08-13 17:29:59,982  INFO [main] SauceDemo:50 - Browser is opened
+2022-08-13 17:30:00,247  INFO [main] SauceDemo:54 - Browser is maximixed
+2022-08-13 17:30:03,063  INFO [main] SauceDemo:57 - URL opened
+2022-08-13 17:30:05,089  INFO [main] SauceDemo:61 - Screenshot taken
+2022-08-13 17:30:11,892  INFO [main] SauceDemo:66 - username entered
+2022-08-13 17:30:12,799  INFO [main] SauceDemo:69 - password entered
+2022-08-13 17:30:22,499  INFO [main] SauceDemo:72 - clicked on login button
+2022-08-13 17:30:28,231  INFO [main] SauceDemo:39 - Assertion applied
+2022-08-13 17:30:28,743  INFO [main] SauceDemo:42 - Screenshot taken
+2022-08-13 17:31:42,527  INFO [main] SauceDemo:50 - Browser is opened
+2022-08-13 17:31:42,749  INFO [main] SauceDemo:54 - Browser is maximixed
+2022-08-13 17:31:45,157  INFO [main] SauceDemo:57 - URL opened
+2022-08-13 17:31:46,265  INFO [main] SauceDemo:61 - Screenshot taken
+2022-08-13 17:31:47,028  INFO [main] SauceDemo:66 - username entered
+2022-08-13 17:31:48,179  INFO [main] SauceDemo:69 - password entered
+2022-08-13 17:31:50,259  INFO [main] SauceDemo:72 - clicked on login button
+2022-08-13 17:31:55,649  INFO [main] SauceDemo:83 - logout done
+2022-08-13 17:31:56,755  INFO [main] SauceDemo:87 - Browser closed
+2022-08-13 17:32:05,654  INFO [main] SauceDemo:50 - Browser is opened
+2022-08-13 17:32:05,814  INFO [main] SauceDemo:54 - Browser is maximixed
+2022-08-13 17:32:07,807  INFO [main] SauceDemo:57 - URL opened
+2022-08-13 17:32:08,230  INFO [main] SauceDemo:61 - Screenshot taken
+2022-08-13 17:32:08,677  INFO [main] SauceDemo:66 - username entered
+2022-08-13 17:32:09,064  INFO [main] SauceDemo:69 - password entered
+2022-08-13 17:32:09,531  INFO [main] SauceDemo:72 - clicked on login button
+2022-08-13 17:32:11,612  INFO [main] SauceDemo:35 - Assertion applied
+2022-08-13 17:32:12,218  INFO [main] SauceDemo:38 - Screenshot taken
+2022-08-13 17:32:12,793  INFO [main] SauceDemo:83 - logout done
+2022-08-13 17:32:14,705  INFO [main] SauceDemo:87 - Browser closed
+2022-08-13 17:32:20,837  INFO [main] SauceDemo:50 - Browser is opened
+2022-08-13 17:32:20,981  INFO [main] SauceDemo:54 - Browser is maximixed
+2022-08-13 17:32:29,236  INFO [main] SauceDemo:57 - URL opened
+2022-08-13 17:32:29,658  INFO [main] SauceDemo:61 - Screenshot taken
+2022-08-13 17:32:30,522  INFO [main] SauceDemo:66 - username entered
+2022-08-13 17:32:31,069  INFO [main] SauceDemo:69 - password entered
+2022-08-13 17:32:31,482  INFO [main] SauceDemo:72 - clicked on login button
+2022-08-13 17:32:32,781  INFO [main] SauceDemo:31 - Assertion Applied
+2022-08-13 17:32:33,371  INFO [main] SauceDemo:34 - Screenshot Taken
+2022-08-13 17:32:34,042  INFO [main] SauceDemo:83 - logout done
+2022-08-13 17:32:34,809  INFO [main] SauceDemo:87 - Browser closed
